@@ -1,1 +1,1 @@
-const money = 20;
+const money = 300000;
